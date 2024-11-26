@@ -1,7 +1,7 @@
 
 # Web Scraping Tool
 
-This is a Python-based web scraping tool built using **FastAPI**, **BeautifulSoup**, and **Requests**. It scrapes product data from an e-commerce website and saves it locally as a JSON file. The tool also downloads product images and saves them to a designated folder.
+This is a Python-based web scraping tool built using **FastAPI**, **BeautifulSoup**, and **Requests**. It scrapes product data from a website and saves it locally as a JSON file. The tool also downloads product images and saves them to a designated folder.
 
 ---
 
